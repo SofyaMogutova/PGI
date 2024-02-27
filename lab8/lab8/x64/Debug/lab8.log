@@ -1,0 +1,21 @@
+﻿  BMPReader.cpp
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(468,17): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(469,18): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(530,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(531,22): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(557,59): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(564,11): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(564,11): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(564,11): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(564,11): message : этот аргумент используется в качестве размера буфера
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(600,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(668,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\BMPReader.cpp(675,15): warning C4018: <: несоответствие типов со знаком и без знака
+  BaseReader.cpp
+  PCXReader.cpp
+C:\Users\Соня\source\repos\PGI-main\lab8\lab8\PCXReader.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  WindowManager.cpp
+  lab8.cpp
+  Создание кода...
+  lab8.vcxproj -> C:\Users\Соня\source\repos\PGI-main\lab8\x64\Debug\lab8.exe
